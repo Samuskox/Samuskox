@@ -1,4 +1,4 @@
-### Hi there 👋
+### Eai, tudo bão? 👋
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=samu5020ol&unique={true|1|on|yes})
 
