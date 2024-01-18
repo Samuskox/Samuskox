@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=samu5020ol&width={900})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=samu5020ol&unique={true|1|on|yes})
 
 <!--
 **Samuskox/Samuskox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
