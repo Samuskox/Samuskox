@@ -1,8 +1,8 @@
 ### Eai, tudo bão? 👋
 
-Olá, pode me chamar de Samuka
-Sou entusiasta de programação, desenhos, música e tecnologia em geral.
-Fique a vontade para ver os meus repósitorios.
+##Olá, pode me chamar de Samuka
+##Sou entusiasta de programação, desenhos, música e tecnologia em geral.
+##Fique a vontade para ver os meus repósitorios.
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=samu5020ol&unique={true|1|on|yes})
