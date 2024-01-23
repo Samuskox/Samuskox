@@ -1,14 +1,19 @@
 ### Eai, tudo bão? 👋
 ### Hi, wassup? 👋
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <div align="right">
   Olá, pode me chamar de Samuka
-  Sou entusiasta de programação, desenhos, música e tecnologia em geral.
+  Sou entusiasta de programação, desenhos, música, videogames e tecnologia em geral.
   Fique a vontade para ver os meus repósitorios.
 </div>
 <div align="left">
   Hi, you can call me samuka
-  I am an enthusiast of programming, draws, music and general technology 
+  I am an enthusiast of programming, draws, music, videogames and general technology 
   feel free to navegate through my repositories
 </div>
 
