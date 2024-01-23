@@ -2,14 +2,14 @@
 ### Hi, wassup? 👋
 
 <div align="right">
-  ## Olá, pode me chamar de Samuka
-  ## Sou entusiasta de programação, desenhos, música e tecnologia em geral.
-  ## Fique a vontade para ver os meus repósitorios.
+  Olá, pode me chamar de Samuka
+  Sou entusiasta de programação, desenhos, música e tecnologia em geral.
+  Fique a vontade para ver os meus repósitorios.
 </div>
 <div align="left">
-  ## Hi, you can call me samuka
-  ## I am an enthusiast of programming, draws, music and general technology 
-  ## feel free to navegate through my repositories
+  Hi, you can call me samuka
+  I am an enthusiast of programming, draws, music and general technology 
+  feel free to navegate through my repositories
 </div>
 
 
