@@ -10,14 +10,14 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  Olá, pode me chamar de Samuka
-  Sou entusiasta de programação, desenhos, música, videogames e tecnologia em geral.
+  Olá, pode me chamar de Samuka,
+  sou entusiasta de programação, desenhos, música, videogames e tecnologia em geral.
   Fique a vontade para ver os meus repósitorios.
   
 </td>
 
 <td width="50%" align="center">
-  Hi, you can call me samuka
+  Hi, you can call me samuka,
   I am an enthusiast of programming, draws, music, videogames and general technology 
   feel free to navegate through my repositories
   </td>
