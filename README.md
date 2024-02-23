@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=CC0CFF&random=false&width=435&lines=Hey%2C+how+you+doin'%3F+my+name+is+samuka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&color=CC0CFF&random=false&width=700&lines=Hey%2C+how+you+doin'%3F+my+name+is+samuka)](https://git.io/typing-svg)
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
