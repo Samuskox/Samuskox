@@ -58,7 +58,7 @@
 
 <h3>What am I listening to?</h3>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=samu5020ol&unique={true|1|on|yes})
+<> ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=samu5020ol&unique={true|1|on|yes})
 
 <!--
 **Samuskox/Samuskox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
