@@ -56,9 +56,11 @@
 </div>
 </details>
 
+<!--
+
 <h3>What am I listening to?</h3>
 
-<!--
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=samu5020ol&unique={true|1|on|yes})
 -->
 
