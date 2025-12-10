@@ -21,7 +21,7 @@
 </table>
 </p> 
 
-![Samuskox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuskox&show_icons=true&theme=synthwave)
+<!-- ![Samuskox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuskox&show_icons=true&theme=synthwave) -->
 
 -----
 
